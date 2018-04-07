@@ -2,7 +2,7 @@
 
 ## An R Shiny Application about DC Parking Violation Visualization
 
-*For GW MSBA Program DNSC6211 Programming for Analytics class*
+*For GW MSBA Program, Programming for Analytics class*
 
 **YouTube video:** https://www.youtube.com/watch?v=qNyjYBzbJ0I&feature=youtu.be 
 
