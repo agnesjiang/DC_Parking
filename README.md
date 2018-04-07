@@ -1,12 +1,12 @@
 # DC_Parking
 
-An R Shiny Application about DC Parking Violation Visualization
+## An R Shiny Application about DC Parking Violation Visualization
 
 *For GW MSBA Program DNSC6211 Programming for Analytics class*
 
-YouTube video: https://www.youtube.com/watch?v=qNyjYBzbJ0I&feature=youtu.be 
+**YouTube video:** https://www.youtube.com/watch?v=qNyjYBzbJ0I&feature=youtu.be 
 
-Dataset: http://opendata.dc.gov/datasets/parking-violations-issued-in-september-2017
+**Dataset:** http://opendata.dc.gov/datasets/parking-violations-issued-in-september-2017
 
 From the side of traffic police, issuing parking tickets is only a measure to maintain clear traffic condition. One of the aspect they can consider is to improve the parking service so that cars on streets won’t affect the moving traffic. Understanding when and where street-parking cars may obstruct the traffic is an effective way to help improve the service of street parking and optimize regulation.
 
