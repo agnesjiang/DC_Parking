@@ -1,5 +1,9 @@
 # DC_Parking
+
 An R Shiny Application about DC Parking Violation Visualization
+
+*For GW MSBA Program DNSC6211 Programming for Analytics class*
+
 YouTube video: https://www.youtube.com/watch?v=qNyjYBzbJ0I&feature=youtu.be 
 
 Dataset: http://opendata.dc.gov/datasets/parking-violations-issued-in-september-2017
